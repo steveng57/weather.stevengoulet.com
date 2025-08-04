@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "KXrGb/Jj",
+  "version": "nPI613h4",
   "assets": [
     {
       "hash": "sha256-9ucXOpVOnOSqUxuoIYMEVdGZJhEPUntKqDr/rqaZdus=",
@@ -158,11 +158,11 @@ self.assetsManifest = {
       "url": "_framework/System.Web.HttpUtility.a54destebp.wasm"
     },
     {
-      "hash": "sha256-4iHcAP8xbaVjzQIZAbkLGnCxgR4e2yOHQL+ZBq7Coh8=",
-      "url": "_framework/WeatherBlazor.y8m5e1bw9w.wasm"
+      "hash": "sha256-OmsyQnAJcsGw9HVlHFPlURSz7KuMZSx7PZHG/M38nmc=",
+      "url": "_framework/WeatherBlazor.ydp9gfkb7n.wasm"
     },
     {
-      "hash": "sha256-ybl5Am7YIoNC0jXMD7XrsjFaRF/NNRQeOXmyzIUulXw=",
+      "hash": "sha256-hU4T0khQojasRYH+EGYV6NKyqleOssGS1nt5CfLT+cM=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -188,6 +188,38 @@ self.assetsManifest = {
     {
       "hash": "sha256-XoMpxJC7MeqP7N0Qj2HHCrLZ4k07SeL/JNsWuCJ4sfM=",
       "url": "appsettings.json"
+    },
+    {
+      "hash": "sha256-RQtKT1Xzax75YgSg1sJQGBy/iVvboSkaL+UQwkKcFOU=",
+      "url": "assets/img/favicons/android-chrome-192x192.png"
+    },
+    {
+      "hash": "sha256-H9wd4RNiBcYmsqC05xgqh7/rF222bQ/lbHFjsp2Z+z0=",
+      "url": "assets/img/favicons/android-chrome-512x512.png"
+    },
+    {
+      "hash": "sha256-zsWr+7c2Hey64hVgimy1fZPTMVzQrsMW/jS5m4G2gz0=",
+      "url": "assets/img/favicons/apple-touch-icon.png"
+    },
+    {
+      "hash": "sha256-0b1Or8nAL2TGw09RqfU2y/IrgeEd6kbdXW4Zjae5tVY=",
+      "url": "assets/img/favicons/favicon-16x16.png"
+    },
+    {
+      "hash": "sha256-ntIoT4aF2wMfTZclUjOlI9VKkmpM5CRriMJaeGNUilo=",
+      "url": "assets/img/favicons/favicon-32x32.png"
+    },
+    {
+      "hash": "sha256-HaJAiCqpKFNqtCh2xAuUZIvdIwoaN/+wB8w54MUD4fY=",
+      "url": "assets/img/favicons/favicon.ico"
+    },
+    {
+      "hash": "sha256-2I6b3csjcNYYP6bObspz6ArnQ3H6WvR0jupnvfhhlRg=",
+      "url": "assets/img/favicons/mstile-150x150.png"
+    },
+    {
+      "hash": "sha256-bNaRFTkVrQRSh5ehAzQXfoyD9k8iZMFVkbNIbmk8EZA=",
+      "url": "assets/img/favicons/safari-pinned-tab.svg"
     },
     {
       "hash": "sha256-EGUXGLRNLFY4aaTjaFe2jAEN9KEXnJG6xfNjlAT58dc=",
