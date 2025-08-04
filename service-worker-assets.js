@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "mkfXNRSH",
+  "version": "CtCAd28u",
   "assets": [
     {
       "hash": "sha256-9ucXOpVOnOSqUxuoIYMEVdGZJhEPUntKqDr/rqaZdus=",
@@ -158,11 +158,11 @@ self.assetsManifest = {
       "url": "_framework/System.Web.HttpUtility.a54destebp.wasm"
     },
     {
-      "hash": "sha256-sIVMEOcBWc3t/tht/kVOxiU491a6xnaOTNWuwKwxZe8=",
-      "url": "_framework/WeatherBlazor.gc1infheqa.wasm"
+      "hash": "sha256-v0VJCTVU7VMOd7PMPG+rBIsQaauGXVhl9yNRnKib+ag=",
+      "url": "_framework/WeatherBlazor.f0v79d7hbj.wasm"
     },
     {
-      "hash": "sha256-+4eTtxiW+eK8xCEp5qNHCY6044eqx4v1CMoqdeRdWoU=",
+      "hash": "sha256-2qacfvOYW4m8qH26e5Bis0vUZNnEiqLaTYXamx+neuo=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -242,7 +242,7 @@ self.assetsManifest = {
       "url": "index.html"
     },
     {
-      "hash": "sha256-+KbUTRIiMruQYBFFVrIDvqPss0zE+7g84YQSF9QTyNM=",
+      "hash": "sha256-ZIAQKiwspIiihDdM7lVIjNFm116EKnYH/QDVBzqlP3U=",
       "url": "manifest.webmanifest"
     }
   ]
