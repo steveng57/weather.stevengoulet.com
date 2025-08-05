@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WeatherBlazor",
   "resources": {
-    "hash": "sha256-NErLZn3L6LGd4irQqLGV53oZg+/+aJAeAoQj47CIX04=",
+    "hash": "sha256-sJ2/J4xEzCfDJ6qWwkrgqhe0qsfGU9Wish6kmYi1HNI=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.xt5g49a62m.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.7yvofxhswa.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -41,7 +41,7 @@
       "System.Text.RegularExpressions.qhcsf9u1lx.wasm": "System.Text.RegularExpressions.wasm",
       "System.Web.HttpUtility.513mxxev0n.wasm": "System.Web.HttpUtility.wasm",
       "System.Private.CoreLib.hqnl6odzpm.wasm": "System.Private.CoreLib.wasm",
-      "WeatherBlazor.3mqafvnbpa.wasm": "WeatherBlazor.wasm",
+      "WeatherBlazor.ov6ueqz4cx.wasm": "WeatherBlazor.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.50iqa8w3ys.js": "dotnet.native.js",
       "dotnet.native.pk43x8e436.wasm": "dotnet.native.wasm",
@@ -97,7 +97,7 @@
       "System.Text.Json.6zx9uw4er9.wasm": "sha256-QjL/T9iBtLlY0z+0BKXfDfwWDHjbleboBh79EcLxylo=",
       "System.Text.RegularExpressions.qhcsf9u1lx.wasm": "sha256-wn7A6lyHyUX6ncCXE68PB0fgNpaI8xcNLGHt7qHCuQo=",
       "System.Web.HttpUtility.513mxxev0n.wasm": "sha256-2T3F3wFyrYJQ1LvjQG0hMX4FQeerxw5OB+oj/cwtHbM=",
-      "WeatherBlazor.3mqafvnbpa.wasm": "sha256-OyDqHO/Mg0ExEzs1DqIkWapHEbBls+ieFecaRWvLX8I="
+      "WeatherBlazor.ov6ueqz4cx.wasm": "sha256-rNtW3cBzF6CCFGt/9oRRikbpfVv+YcnVAztMOCxOy0g="
     }
   },
   "cacheBootResources": true,
