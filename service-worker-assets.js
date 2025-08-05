@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "wuJBN09a",
+  "version": "Oh+UGtva",
   "assets": [
     {
       "hash": "sha256-9ucXOpVOnOSqUxuoIYMEVdGZJhEPUntKqDr/rqaZdus=",
@@ -158,11 +158,11 @@ self.assetsManifest = {
       "url": "_framework/System.Web.HttpUtility.513mxxev0n.wasm"
     },
     {
-      "hash": "sha256-0QSpMlZfNhpT6/6J3yqOGuw8gmrEBJ1poPRlP2ss7js=",
-      "url": "_framework/WeatherBlazor.t9zpy9eu9y.wasm"
+      "hash": "sha256-pgthWqU3k9lP8nWYx51cjSePrUAk57X0zFAoqkvtS44=",
+      "url": "_framework/WeatherBlazor.ajf01jzrhv.wasm"
     },
     {
-      "hash": "sha256-OpvCfGqcCkzugoATBihw25D2RLhvZ5Y9xwnHkuax4/U=",
+      "hash": "sha256-dAVV2nhQwgIRLH/bKwTSvwWD+Kpi348pms9/JVm27fQ=",
       "url": "_framework/blazor.boot.json"
     },
     {
